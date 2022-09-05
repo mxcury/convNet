@@ -13,13 +13,24 @@
 
 ## 📝 Table of Contents
 
-- [About](#about)
-- [Authors](#authors)
-- [Built Using](#️built_using)
+- [📝 Table of Contents](#-table-of-contents)
+- [🧐 About <a name = "about"></a>](#-about-)
+- [🧐 How to extract resources folder <a name = "res-extract"></a>](#-how-to-extract-resources-folder-)
+- [⛏️ Built Using <a name = "built_using"></a>](#️-built-using-)
+- [✍️ Authors <a name = "authors"></a>](#️-authors-)
 
 ## 🧐 About <a name = "about"></a>
 
 ...
+
+## 🧐 How to extract resources folder <a name = "res-extract"></a>
+
+1. Download 7zip for windows
+2. Navigate to the res/ folder in 7zip
+3. Right click on the first file (res.7z.001)
+4. Select the "combine files" option
+5. Copy all the folders in the new res.7z\res\ into the res folder in the project 
+6. Delete the split files (res.7z.001 - res.7z.004)
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
